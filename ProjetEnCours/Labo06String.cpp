@@ -15,7 +15,7 @@ int main()
    // déclaration des variables
    int entier = 0;
    string prenom;          // Ici on a appelé le constructeur de string, qui par défaut initialise la variable avec une chaine vide ""
-   string adresse;
+   string adresse; //allo
    string paragraphe;
 
    cout << "Contenu de entier : " << entier << endl;
